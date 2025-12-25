@@ -1,3 +1,27 @@
+[README.md]
+
+# Mayan-Calendar
+
+<p align="center">
+  <a href="https://github.com/whisprer/mayan-calendar/releases"> 
+    <img src="https://img.shields.io/github/v/release/whisprer/mayan-calendar?color=4CAF50&label=release" alt="Release Version"> 
+  </a>
+  <a href="https://github.com/whisprer/mayan-calendar/actions"> 
+    <img src="https://img.shields.io/github/actions/workflow/status/whisprer/mayan-calendar/lint-and-plot.yml?label=build" alt="Build Status"> 
+  </a>
+</p>
+
+![Commits](https://img.shields.io/github/commit-activity/m/whisprer/mayan-calendar?label=commits) 
+![Last Commit](https://img.shields.io/github/last-commit/whisprer/mayan-calendar) 
+![Issues](https://img.shields.io/github/issues/whisprer/mayan-calendar) 
+[![Version](https://img.shields.io/badge/version-3.1.1-blue.svg)](https://github.com/whisprer/mayan-calendar) 
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)](https://www.microsoft.com/windows)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+<p align="center">
+  <img src="mayan-calendar-banner.png" width="850" alt="Mayan-Calendar Banner">
+
 # mayan_calendar
  code to tell the date in mayan calendar
 
